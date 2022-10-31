@@ -1,0 +1,3 @@
+- 👋 Hi, I’m MiaoXu@GitHub
+- 👀 I’m an immuno-geneticist and system biologist, working in immunology, geneticist,and both experienmental and computational.
+- In this place, I will create the learning course of bioinformatics, focusing on the immunology and genstics area, and share with you guys the advances in immunology, genetics and single-cell and 3D genome technology.
